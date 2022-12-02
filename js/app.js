@@ -84,7 +84,7 @@ let testArray = [2, 3, 4]; //eslint-disable-line
 
 function sumArray(sumArr) { //eslint-disable-line
   let sum = 0;
-  
+
   for (let i = 0; i < 3; i++){
     sum = sumArr[i] + sum;
   }
